@@ -11,7 +11,7 @@ If you are trying out Limbo, it's recommended to also be running this in the bac
 ```bash
 while(true);
 do
-  git pull -- rebase;
+  git pull --rebase;
   git push;
 done;
 ```
