@@ -4,7 +4,7 @@ This repo contains the skeleton project for trying a simple kata with test && co
 
 You can run the main test cycle with:
 ```bash
-./gradlew test && git commit -am working || git reset -- hard
+./gradlew test && git commit -am working || git reset --hard
 ```
 
 If you are trying out Limbo, it's recommended to also be running this in the background.
